@@ -1,5 +1,5 @@
 # farm.ai
-<img src="https://github.com/AbhinandanRoul/OdysseyHacks/blob/main/images/farmai.png" width="256"/>
+<img src="https://github.com/AbhinandanRoul/OdysseyHacks/blob/main/images/farmai.png" width="256"/><br>
 ## A one stop solution for farmers
 
 # About the product-
