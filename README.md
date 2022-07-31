@@ -1,4 +1,5 @@
 # farm.ai
+<img src="https://github.com/AbhinandanRoul/OdysseyHacks/blob/main/images/farmai.png" width="256"/>
 ## A one stop solution for farmers
 
 # About the product-
@@ -16,6 +17,6 @@ __farm.ai__ is built for farmers to enhance their productivity and digitalise th
 <img src="https://github.com/AbhinandanRoul/OdysseyHacks/blob/main/images/1659226272358.jpg" width="256"/>
 <img src="https://github.com/AbhinandanRoul/OdysseyHacks/blob/main/images/1659226272366.jpg" width="256"/>
 <img src="https://github.com/AbhinandanRoul/OdysseyHacks/blob/main/images/1659226272374.jpg" width="256"/>
-<img src="  https://github.com/AbhinandanRoul/OdysseyHacks/blob/main/images/farmai.png" width="256"/>
+
 </p>
 
