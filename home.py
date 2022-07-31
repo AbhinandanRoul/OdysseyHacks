@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-st.header("Farm.io")
+st.header("Farm.ai")
 st.subheader("One stop solution for your farms")
 st.image("logo.jpg")
 # add_selectbox =st.sidebar.selectbox(
@@ -14,7 +14,7 @@ st.image("logo.jpg")
 #     btn2=st.button("Cattle Health")
 #     btn3=st.button("Soil Health")
 
-col1, col2= st.columns(2    )
+col1, col2= st.columns(2)
 
 with col1:
     st.header("Col 1")
